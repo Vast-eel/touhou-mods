@@ -9,5 +9,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/"
 	],
-	"title": "Various 2hu miscellanies."
+	"title": "Vasteel's Xolotls"
 }
