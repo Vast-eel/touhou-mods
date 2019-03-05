@@ -9,7 +9,9 @@
 	"servers": [
 		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/",
 		"https://thcrap.nmlgc.net/repos/VasteelXolotl/",
-		"http://thcrap.nmlgc.net/repos/VasteelXolotl/"
+		"http://thcrap.nmlgc.net/repos/VasteelXolotl/",
+		"https://mirrors.thpatch.net/VasteelXolotl/",
+		"http://mirrors.thpatch.net/VasteelXolotl/"
 	],
 	"title": "Vasteel's Xolotls"
 }
