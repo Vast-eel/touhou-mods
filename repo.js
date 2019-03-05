@@ -7,7 +7,9 @@
 		"cd-arranges_lossless": "Some arranges from ZUN's CDs (lossless)"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/"
+		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/",
+		"https://thcrap.nmlgc.net/repos/VasteelXolotl/",
+		"http://thcrap.nmlgc.net/repos/VasteelXolotl/"
 	],
 	"title": "Vasteel's Xolotls"
 }
