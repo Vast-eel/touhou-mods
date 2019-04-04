@@ -5,8 +5,6 @@
 	"id": "cd-arranges",
 	"servers": [
 		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/cd-arranges/",
-		"https://thcrap.nmlgc.net/repos/VasteelXolotl/cd-arranges/",
-		"http://thcrap.nmlgc.net/repos/VasteelXolotl/cd-arranges/",
 		"https://mirrors.thpatch.net/VasteelXolotl/cd-arranges/",
 		"http://mirrors.thpatch.net/VasteelXolotl/cd-arranges/"
 	],

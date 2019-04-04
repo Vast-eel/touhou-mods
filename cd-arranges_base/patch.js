@@ -5,8 +5,6 @@
 	"id": "cd-arranges_base",
 	"servers": [
 		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/cd-arranges_base/",
-		"https://thcrap.nmlgc.net/repos/VasteelXolotl/cd-arranges_base/",
-		"http://thcrap.nmlgc.net/repos/VasteelXolotl/cd-arranges_base/",
 		"https://mirrors.thpatch.net/VasteelXolotl/cd-arranges_base/",
 		"http://mirrors.thpatch.net/VasteelXolotl/cd-arranges_base/"
 	],
