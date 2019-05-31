@@ -4,7 +4,8 @@
 	"patches": {
 		"cd-arranges": "Some arranges from ZUN's CDs (lossy)",
 		"cd-arranges_base": "Base files for ZUN arranges. This doesn't contain *all* of the arranges, just the ones that fit better in my opinion.",
-		"cd-arranges_lossless": "Some arranges from ZUN's CDs (lossless)"
+		"cd-arranges_lossless": "Some arranges from ZUN's CDs (lossless)",
+		"vx-customshots": "Modifications of shot types I thought were lacking."
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/",
