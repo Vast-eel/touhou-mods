@@ -11,8 +11,7 @@
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/",
-		"https://mirrors.thpatch.net/VasteelXolotl/",
-		"http://mirrors.thpatch.net/VasteelXolotl/"
+		"https://mirrors.thpatch.net/VasteelXolotl/"
 	],
 	"title": "Vasteel's Xolotls"
 }
