@@ -1,2 +1,2 @@
-C:\Users\xyz\AppData\Local\Programs\Python\Python37\python.exe ..\scripts\repo_update.py
+"C:\Program Files\Python38\python.exe" C:\Users\xyz\Desktop\thcrap_brliron\bin\scripts\repo_update.py
 pause
