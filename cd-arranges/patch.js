@@ -1,11 +1,11 @@
 {
 	"dependencies": [
-		"VasteelXolotl/cd-arranges_base"
+		"Vasteel/cd-arranges_base"
 	],
 	"id": "cd-arranges",
 	"servers": [
-		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/cd-arranges/",
-		"https://mirrors.thpatch.net/VasteelXolotl/cd-arranges/"
+		"https://raw.githubusercontent.com/Vast-eel/touhou-mods/master/cd-arranges/",
+		"https://mirrors.thpatch.net/Vasteel/cd-arranges/"
 	],
 	"title": "Some arranges from ZUN's CDs (lossy)"
 }

@@ -1,6 +1,6 @@
 {
-	"contact": "VasteelXolotl#2495",
-	"id": "VasteelXolotl",
+	"contact": "@vasteel",
+	"id": "Vasteel",
 	"patches": {
 		"cd-arranges": "Some arranges from ZUN's CDs (lossy)",
 		"cd-arranges_base": "Base files for ZUN arranges. Only contains those fitting with a particular game's style. Pls support the official release.",
@@ -10,8 +10,8 @@
 		"vx-fixedshots": "Fixes the damage of MarisaB in MoF and YoumuC in WBaWC."
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/VasteelXolotl/VasteelXolotl/master/",
-		"https://mirrors.thpatch.net/VasteelXolotl/"
+		"https://raw.githubusercontent.com/Vast-eel/touhou-mods/master/",
+		"https://mirrors.thpatch.net/Vasteel/"
 	],
-	"title": "Vasteel's Xolotls"
+	"title": "Misc Touhou mods"
 }
